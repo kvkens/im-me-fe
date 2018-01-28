@@ -4,9 +4,9 @@
 
 module.exports = {
   "GET": [{
-    "/api/user/get": "./mock/user/get.json"
+    "/user/get": "./mock/user/get.json"
   }],
   "POST": [{
-    "/api/user/post": "./mock/user/post.json",
+    "/user/post": "./mock/user/post.json",
   }]
 }
